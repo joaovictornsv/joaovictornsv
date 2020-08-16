@@ -2,7 +2,7 @@
 <h3 align="left">A student and beginner web-developer</h3>
 
 
-- 🌱 I’m currently learning **Javascrip, React and React Native** 
+- 🌱 I’m currently learning **JavascripT, React and React Native** 
  
 - 📚 I’m currently studying on **IFPB**  - [About](https://www.ifpb.edu.br/campinagrande) 
   
