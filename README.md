@@ -8,7 +8,8 @@
   
 - 🎓 I’m graduating in **Computer Engineering**  - [About](https://estudante.ifpb.edu.br/cursos/28/)
   
-  <hr>
+ <hr>
+  
 <h3> 🚀 Skills </h3>
 
 | Dev | Tools |
@@ -21,5 +22,11 @@
 
 
  <hr>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovictornsv&hide=prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<h3> GitHub Stats 📊 </h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joaovictornsv&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=joaovictornsv&hide=prs,issues,contribs&show_icons=true&theme=radical" alt="My github stats" />
+</a>  
