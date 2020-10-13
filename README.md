@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovictornsv&show_icons=true&theme=radical)
 
-<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-victor-0407761b9/">
+<a target="_blank" href="https://www.linkedin.com/in/joaovictornsv">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:joaovictornsv@gmail.com">
