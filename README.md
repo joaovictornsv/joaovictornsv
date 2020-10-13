@@ -1,7 +1,12 @@
 ### Hi 👋, I'm João Victor
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=joaovictornsv&&show_icons=true&theme=radical" alt="My github stats" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovictornsv&show_icons=true&theme=radical)
+
+<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-victor-0407761b9/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:joaovictornsv@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 ### A student and beginner web-developer
