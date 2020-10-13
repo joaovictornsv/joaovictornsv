@@ -5,9 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-6633cc?style=flat-square&logo=Linkedin&color=141321&logoColor=a0f1eb&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/joaovictornsv/)
 [![Gmail Badge](https://img.shields.io/badge/-joaovictornsv@gmail.com-6633cc?style=flat-square&logo=Gmail&color=141321&logoColor=a0f1eb&link=mailto:diego.schell.f@gmail.com)](mailto:joaovictornsv@gmail.com)
 
-<a target="_blank" href="mailto:joaovictornsv@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <br/>
 
 ### A student and beginner web-developer
