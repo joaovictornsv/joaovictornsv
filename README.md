@@ -3,8 +3,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovictornsv&show_icons=true&theme=radical)
 
 [![Github Badge](https://img.shields.io/github/followers/joaovictornsv?color=141321&label=Follow&logo=github&logoColor=a0f1eb&style=flat-square)](https://github.com/joaovictornsv)
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-6633cc?style=flat-square&logo=Linkedin&color=141321&logoColor=a0f1eb&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/joaovictornsv/)
-[![Gmail Badge](https://img.shields.io/badge/-joaovictornsv@gmail.com-6633cc?style=flat-square&logo=Gmail&color=141321&logoColor=a0f1eb&link=mailto:diego.schell.f@gmail.com)](mailto:joaovictornsv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-6633cc?style=flat-square&logo=Linkedin&color=141321&logoColor=a0f1eb&link=https://www.linkedin.com/in/joaovictornsv/)](https://www.linkedin.com/in/joaovictornsv/)
+[![Gmail Badge](https://img.shields.io/badge/-joaovictornsv@gmail.com-6633cc?style=flat-square&logo=Gmail&color=141321&logoColor=a0f1eb&link=mailto:joaovictornsv@gmail.com)](mailto:joaovictornsv@gmail.com)
 
 ### A student and beginner web-developer
 
