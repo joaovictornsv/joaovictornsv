@@ -1,4 +1,4 @@
-### Hi 👋, I'm João Victor
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm João Victor
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovictornsv&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/joaovictornsv/)](https://www.linkedin.com/in/joaovictornsv/)
