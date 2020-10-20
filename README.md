@@ -8,7 +8,7 @@
 
  ### A student and beginner web-developer
 
- - 🌱 I’m currently learning JS tools (Node, React, React Native) and Python
+ - 🌱 I’m currently learning **JS tools (Node, React, React Native)** and **Python**
  - 🤝 I'm alvailable for new connections and projects
  - 🚀 Always finding for new knowledges and experiences
 
