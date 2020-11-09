@@ -8,9 +8,9 @@
 
  ### A student and beginner web-developer
 
- - [x] I’m currently learning **JS tools (Node, React, React Native)** and **Python**
- - [x] I'm available for new connections and projects
- - [x] Always finding for new knowledges and experiences
+ - 🌱 I’m currently learning **JS tools (Node, React, React Native)** and **Python**
+ - 🤝 I'm available for new connections and projects
+ - 🚀 Always finding for new knowledges and experiences
 
 
 ### Language and Tools
