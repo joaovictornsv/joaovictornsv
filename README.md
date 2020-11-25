@@ -10,7 +10,6 @@
  - 🤝 I'm available for new connections and projects
  - 🚀 Always finding for new knowledges and experiences
 
-<hr>
 
 <table>
 <tr>
