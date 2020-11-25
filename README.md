@@ -7,11 +7,8 @@
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
  ### A student and beginner web-developer
-
- - 🌱 I’m currently learning **JS tools (Node, React, React Native)** and **Python**
  - 🤝 I'm available for new connections and projects
  - 🚀 Always finding for new knowledges and experiences
-
 
 <table >
 <tr>
