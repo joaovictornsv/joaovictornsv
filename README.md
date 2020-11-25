@@ -8,10 +8,9 @@
  - 🤝 I'm available for new connections and projects
  - 🚀 Always finding for new knowledges and experiences
 
-<div diplay=flex>
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" height="130" align="right">
 
-<table align=left>
+<table>
 <tr>
 	<th colspan=4 >Languages and Tools</th>
 </tr>
@@ -36,4 +35,3 @@
 	</td>
 	</tr>
 </table>
-</div>
