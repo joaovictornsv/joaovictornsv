@@ -1,10 +1,8 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Victor
 
- ### A student and beginner web-developer
+ ### Fullstack Student
 
- - 🌱 I’m currently learning **JS tools (Node, React, React Native)** and **Python**
- - 🤝 I'm available for new connections and projects
- - 🚀 Always finding for new knowledges and experiences
+📚 Currently learning **Javascript, Node.JS** and **Typescript**
 
 
 ### Language and Tools
