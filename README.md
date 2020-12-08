@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Victor-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/joaovictornsv/)](https://www.linkedin.com/in/joaovictornsv/)
 [![Gmail Badge](https://img.shields.io/badge/-joaovictornsv@gmail.com-6633cc?style=flat-square&logo=Gmail&1&color=14274e&logoColor=FFF&link=mailto:joaovictornsv@gmail.com)](mailto:joaovictornsv@gmail.com)
 
-<img src="https://i.imgur.com/atAT1Mj.png" height="250" align="right">
+<img src="https://i.imgur.com/x7QwqgW.png" height="250" align="right">
 
  ### A student and beginner web-developer
 
