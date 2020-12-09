@@ -1,7 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Victor
 
-
-I’m currently studying to be a Full Stack Javascript Developer. Started programming with JS in 2020 and since then I try to evolve every day.
+I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with JS in 2020 and since then I try to evolve every day.
 Actually studying Computer Engineering at IFPB Campus Campina Grande.
 
 #### Skills: <br>
@@ -16,7 +15,7 @@ Actually studying Computer Engineering at IFPB Campus Campina Grande.
 
 <hr>
 
-#### Get in touch ⤵️
+#### Get in Touch ⤵️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictornsv@gmail.com)
