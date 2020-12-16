@@ -5,15 +5,15 @@
 I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with JS in 2020 and since then I try to evolve every day.
 Actually studying Computer Engineering at IFPB Campus Campina Grande.
 
-#### Skills: <br>
-<img height="20" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"> &nbsp;
-<img height="20" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"> &nbsp;
-<img height="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+### Skills: <br>
+<img height="30" alt="HTML" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/support/html5.svg"> &nbsp;
+<img height="30" alt="CSS" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/support/css3.svg"> &nbsp;
+<img height="30" alt="Javascript" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/javascript.svg">
 
-#### Learning: <br>
-<img height="20" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg"> &nbsp;
-<img height="20" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"> &nbsp;
-<img height="20" src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
+### Learning: <br>
+<img height="30" alt="NodeJS" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/node.svg"> &nbsp;
+<img height="30" alt="Typescript" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/typescript.svg"> &nbsp;
+<img height="30" alt="React" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/reactjs.svg">
 
 <hr>
 
