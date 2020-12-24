@@ -6,14 +6,16 @@ I’m currently studying to be a **Full Stack Javascript Developer**. Started pr
 Actually studying Computer Engineering at IFPB Campus Campina Grande.
 
 #### Skills: <br>
-<img height="26" alt="HTML" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/support/html5.svg"> &nbsp;
-<img height="26" alt="CSS" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/support/css3.svg"> &nbsp;
-<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/javascript.svg">
+<img height="26" alt="HTML" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" alt="CSS" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" alt="Javascript" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
 
 #### Learning: <br>
-<img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/node.svg"> &nbsp;
-<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/typescript.svg"> &nbsp;
-<img height="26" alt="React" src="https://raw.githubusercontent.com/fecampi/fecampi/5593bb443ef3c8fdc8eb442378d047e4c9d49d03/assets/stack/reactjs.svg">
+<img height="26" alt="NodeJS" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img height="26" alt="Typescript" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"> &nbsp;
+<img height="26" alt="React" src="https://devicon.dev/devicon.git/icons/react/react-original.svg"> &nbsp;
+<img height="26" alt="Sequelize" src="https://devicon.dev/devicon.git/icons/sequelize/sequelize-original.svg"> &nbsp;
+<img height="26" alt="Postgres" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg">
 
 <hr>
 
