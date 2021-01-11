@@ -15,7 +15,9 @@ Actually studying Computer Engineering at IFPB Campus Campina Grande.
 <img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" alt="Sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> &nbsp;
-<img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
+<img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 
 <hr>
 
