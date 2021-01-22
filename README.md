@@ -28,7 +28,7 @@ Actually studying Computer Engineering at IFPB Campus Campina Grande.
 	<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 	<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	</td></tr>
- </table>
+ </table> &nbsp;
  
 <table>
 	<tr><th>Algorithms</th></tr>
