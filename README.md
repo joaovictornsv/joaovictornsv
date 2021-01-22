@@ -22,31 +22,30 @@ Actually studying Computer Engineering at IFPB Campus Campina Grande.
 <img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 
 <table>
-	<tr><th>Web Development</th></tr>
-	<tr><td  align="center">
+	<tr>
+	<th>Web Development</th>
+	<th>Algorithms</th>
+	<th>Learning</th>
+	</tr>
+	<tr>
+<td  align="center">
 	<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 	<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 	<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-	</td></tr>
- </table> &nbsp;
- 
-<table>
-	<tr><th>Algorithms</th></tr>
-	<tr><td align="center">
+	</td>
+	<br/>
+	<td align="center">
 	<img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 	<img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-	</td></tr>
-</table>
- 
-<table>
-	<tr><th>Learning</th></tr>
-	<tr><td align="center">
+	</td>
+	<td align="center">
 	<img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 	<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 	<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 	<img height="26" alt="Sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> &nbsp;
 	<img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;</td></tr>
-</table>
+<table>
+
 
 <hr>
 
