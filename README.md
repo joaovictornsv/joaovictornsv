@@ -2,12 +2,12 @@
 	
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Victor
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br/>
+<img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
 
 <div align="left">
 I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with JS in 2020 and since then I try to evolve every day.
 Actually studying Computer Engineering at IFPB Campus Campina Grande.
-</div>
+</div><br>
 
 #### Web Development: <br>
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
