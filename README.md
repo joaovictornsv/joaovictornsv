@@ -18,6 +18,7 @@ Currently studying the 2nd year of Computer Engineering at IFPB Campus Campina G
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 <img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+<img height="26" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"> &nbsp;
 <img height="26" alt="Sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> &nbsp;
 <img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 
