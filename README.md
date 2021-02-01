@@ -12,7 +12,7 @@ Currently studying the 2nd year of Computer Engineering at IFPB Campus Campina G
 
 #### Algorithms: <br>
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-<img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
 <img height="26" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 #### Learning: <br>
