@@ -5,8 +5,7 @@
 I’m currently studying to be a **Full Stack Javascript Developer**. Started programming with JS in 2020 and since then I try to evolve every day.
 Currently studying the 2nd year of Computer Engineering at IFPB Campus Campina Grande.
 
-<h4><sub>Web Development:</sub></h4><br>
-
+#### Web Development: <br>
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
