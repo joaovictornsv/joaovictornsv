@@ -17,7 +17,6 @@ Currently studying the 2st year of Computer Engineering at IFPB Campus Campina G
 <img height="26" alt="TypeORM" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1"> &nbsp;
 <img height="26" alt="TypeORM" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.stackshare.io%2Fservice%2F7419%2F20165699.png&f=1&nofb=1"> &nbsp;
 <img height="26" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
-<img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 
 #### <kbd>Other languages (I know the basics):</kbd><br>
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
