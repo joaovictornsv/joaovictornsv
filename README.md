@@ -1,8 +1,10 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm João Victor
+## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, sou João Victor
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
 I’m currently studying to be a **Back-end Javascript Developer**. Started programming with JS in 2020 and since then I try to evolve every day.
 Currently studying the 2st year of Computer Engineering at IFPB Campus Campina Grande.
+
+Atualmente, estou estudando para me tornar um **JavaScript Back-end Developer**. Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro evoluir a cada dia. Atualmente cursando o 2º ano de Engenharia de Computação no IFPB Campus Campina Grande.
 
 #### <kbd>Back-end:</kbd><br>
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
@@ -17,12 +19,12 @@ Currently studying the 2st year of Computer Engineering at IFPB Campus Campina G
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
 
-#### <kbd>Learning</kbd><br>
+#### <kbd>Aprendendo</kbd><br>
 <img height="26" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 
-#### <kbd>Other languages (I know the basics):</kbd><br>
+#### <kbd>Outras linguagens (conheço o básico):</kbd><br>
 <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
 <img height="26" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -30,7 +32,7 @@ Currently studying the 2st year of Computer Engineering at IFPB Campus Campina G
 
 <hr>
 
-#### Get in Touch ⤵️
+#### Contato ⤵️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictornsv@gmail.com)
