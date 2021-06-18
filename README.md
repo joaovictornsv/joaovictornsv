@@ -1,7 +1,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, sou João Victor
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
-Atualmente, estou estudando para me tornar um **JavaScript Back-end Developer**. Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro evoluir a cada dia. Atualmente cursando o 2º ano de Engenharia de Computação no IFPB Campus Campina Grande.
+Atualmente, estou estudando para me tornar um **JavaScript Back-end Developer**. Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro evoluir a cada dia. Atualmente cursando o 3º semestre de Engenharia de Computação no IFPB Campus Campina Grande.
 
 #### <kbd>Back-end:</kbd><br>
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
