@@ -33,3 +33,9 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictornsv@gmail.com)
+
+<div align="right">
+  <a href="https://joaovictornsv.vercel.app" title="Clique aqui">
+    <img  src="https://i.pinimg.com/originals/2e/05/b7/2e05b7afeb0c9b20aea25d686cdd5029.gif" width=50 alt="Crafting Table"/>
+  </a>
+</div>
