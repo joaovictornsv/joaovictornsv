@@ -35,7 +35,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictornsv@gmail.com)
 
 <div align="right">
-  <a href="https://joaovictornsv.vercel.app" title="Clique aqui">
-    <img  src="https://i.pinimg.com/originals/2e/05/b7/2e05b7afeb0c9b20aea25d686cdd5029.gif" width=50 alt="Crafting Table"/>
+  <a href="https://joaovictornsv.vercel.app" title="Clique aqui" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.pinimg.com/originals/2e/05/b7/2e05b7afeb0c9b20aea25d686cdd5029.gif" width=50 alt="Crafting Table"/>
   </a>
 </div>
