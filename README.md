@@ -4,27 +4,28 @@
 Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro evoluir a cada dia. Atualmente cursando o 3º semestre de Engenharia de Computação no IFPB Campus Campina Grande.
 
 #### <kbd>Back-end:</kbd><br>
-<img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
-<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
-<img height="26" alt="TypeORM" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1"> &nbsp;
-<img height="26" alt="TypeORM" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.stackshare.io%2Fservice%2F7419%2F20165699.png&f=1&nofb=1"> &nbsp;
+<img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img height="26" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
+<img height="26" title="Express" alt="Express" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1">
+<img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
+<img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
+<img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
 
 ####  <kbd>Front-end:</kbd><br>
-<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
+<img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="26" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+<img height="26" title="Next" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
 
-#### <kbd>Aprendendo:</kbd><br>
-<img height="26" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
-<img height="26" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<!-- #### <kbd>Aprendendo:</kbd><br> -->
 
 
 #### <kbd>Outras linguagens (conheço o básico):</kbd><br>
-<img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-<img height="26" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
-<img height="26" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+<img height="26" title="C" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
+<img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 
 
 <hr>
