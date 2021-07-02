@@ -1,7 +1,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, sou João Victor
 
 <a href="https://joaovictornsv.vercel.app" title="Entre no portal">
-  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=100 /><br>
+  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
 </a>
 Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro evoluir a cada dia. Atualmente cursando o 3º semestre de Engenharia de Computação no IFPB Campus Campina Grande.
 
