@@ -27,7 +27,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 #### <kbd>Outras linguagens (conheço o básico):</kbd><br>
 <img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" title="C" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
-<img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<img height="26" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
 
 <hr>
