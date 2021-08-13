@@ -11,8 +11,11 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Express" alt="Express" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1">
 <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
+<img height="26" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> &nbsp;
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
-<img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+<img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
+<img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img height="26" title="Docker" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png">
 
 ####  <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
