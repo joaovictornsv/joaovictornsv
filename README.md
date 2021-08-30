@@ -15,7 +15,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img height="26" title="Docker" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png">
+<img height="26" title="Serverless" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png">
 
 ####  <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
