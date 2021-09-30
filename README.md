@@ -14,8 +14,8 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> &nbsp;
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
-<img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img height="26" title="Serverless" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png">
+<img height="26" title="Serverless" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"> &nbsp;
+<img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
 
 ####  <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
@@ -24,14 +24,13 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" title="Next" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
 
-<!-- #### <kbd>Aprendendo:</kbd><br> -->
-
-
-#### <kbd>Outras linguagens (conheço o básico):</kbd><br>
-<img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-<img height="26" title="C" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
-<img height="26" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-
+#### <kbd>Ferramentas:</kbd><br>
+<img height="26" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
+<img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
+<img height="26" title="Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> &nbsp;
+<img height="26" title="Beekeeper Studio" alt="Beekeeper Studio" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"> &nbsp;
+<img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
+<img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
 <hr>
 
