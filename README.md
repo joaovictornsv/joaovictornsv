@@ -43,7 +43,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 
 <div align="right">
   <a href="https://joaovictornsv.vercel.app" title="Clique aqui">
+    <img src="https://i.pinimg.com/originals/2e/05/b7/2e05b7afeb0c9b20aea25d686cdd5029.gif" width=50 alt="Crafting Table"/>
     <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width=50 alt="Mona"/>
-    <img src="https://i.pinimg.com/originals/2e/05/b7/2e05b7afeb0c9b20aea25d686cdd5029.gif" width=50 alt="Crafting Table"/>    
   </a>
 </div>
