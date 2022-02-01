@@ -22,7 +22,9 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" title="Next" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
+<img height="26" title="Next" alt="NextJS" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"> &nbsp;
+<img height="26" title="Styled Components" alt="Styled Components" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+
 
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
