@@ -14,8 +14,10 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> &nbsp;
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
-<img height="26" title="Serverless" alt="Docker" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"> &nbsp;
-<img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
+<img height="26" title="Serverless" alt="Serverless" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"> &nbsp;
+<img height="26" title="Azure Functions" alt="Azure Functions" src="https://api.nuget.org/v3-flatcontainer/aliencube.azurefunctions.extensions.configuration.json/2.1.1.1/icon"> &nbsp;
+<img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> &nbsp;
+<img height="26" title="CosmosDB" alt="CosmosDB" src="https://linkurious.com/assets/uploads/2022/02/image-4.png">
 
 ####  <kbd>Front-end:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
@@ -29,6 +31,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
+<img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 <img height="26" title="Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> &nbsp;
 <img height="26" title="Azure Devops" alt="Azure Devops" src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png"> &nbsp;
@@ -39,7 +42,8 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 #### <kbd>Conhecimentos básicos em:</kbd><br>
 <img height="26" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp;
 <img height="26" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> &nbsp;
-<img height="26" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+<img height="26" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+<img height="26" title="Bash Script" alt="Bash Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 
 <hr>
 
