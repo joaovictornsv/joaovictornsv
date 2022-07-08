@@ -15,7 +15,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
 <img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img height="26" title="Serverless" alt="Serverless" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"> &nbsp;
-<img height="26" title="Azure Functions" alt="Azure Functions" src="https://api.nuget.org/v3-flatcontainer/aliencube.azurefunctions.extensions.configuration.json/2.1.1.1/icon"> &nbsp;
+<img height="26" title="Azure Functions" alt="Azure Functions" src="https://mattruma.com/wp-content/uploads/2020/04/AzureFunctions.png"> &nbsp;
 <img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> &nbsp;
 <img height="26" title="CosmosDB" alt="CosmosDB" src="https://linkurious.com/assets/uploads/2022/02/image-4.png">
 
