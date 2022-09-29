@@ -8,7 +8,7 @@
 ---
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
 <sub>
-  Udemy - Ago/2021 -
+  Udemy - 2021 -
   <a href="https://www.udemy.com/certificate/UC-c1ab30b8-67ff-4b21-a40c-ff65eb5d3218/">
     Certificado
   </a>
@@ -18,7 +18,7 @@
 
 • Introduction to SQL <br/>
 <sub>
-  Datacamp - Abr/2021 -
+  Datacamp - 2021 -
   <a href="https://www.datacamp.com/statement-of-accomplishment/course/3672f2ea35178d46e3a66f29a95a5b6588e8dec5/">
     Certificado
   </a>
