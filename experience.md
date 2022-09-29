@@ -30,15 +30,9 @@
 • Curso de Python 3 <br/>
 <sub>
   Curso em Vídeo - 2020 - Curso:
-  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">
-    Parte 1,
-  </a>
-  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">
-    Parte 2
-  </a> e
-   <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3/">
-    Parte 3
-  </a>
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Parte 1</a>,
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">Parte 2</a> e
+   <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3/">Parte 3</a>
 </sub>
 
 <br/>
