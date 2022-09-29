@@ -24,7 +24,6 @@
   </a>
 </sub>
 
-
 <br/>
 
 • Curso de Python 3 <br/>
