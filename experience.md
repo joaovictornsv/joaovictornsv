@@ -4,7 +4,7 @@
 
 <br/>
 
-### Cursos e certificados
+### 📜 Cursos e certificados
 ---
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
 <sub>
