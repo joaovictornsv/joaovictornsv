@@ -4,6 +4,20 @@
 
 <br/>
 
+### ✅ Principais projetos
+---
+<h4> • Backend <br/>
+<sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/>
+</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=http-node-api&theme=github_dark)](https://github.com/joaovictornsv/http-node-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=sls-login-mongodb&theme=github_dark)](https://github.com/joaovictornsv/sls-login-mongodb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=typeorm-mocha&theme=github_dark)](https://github.com/joaovictornsv/typeorm-mocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=passport-jwt-typescript&theme=github_dark)](https://github.com/joaovictornsv/passport-jwt-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-azure-function&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-python&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-python)
+
+---
 ### 📜 Cursos e certificados
 ---
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
@@ -26,12 +40,22 @@
 
 <br/>
 
-• Curso de Python 3 <br/>
+• Docker fundamental - Aprenda a utilizar a ferramenta <br/>
 <sub>
-  Curso em Vídeo - 2020 - Curso:
-  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Parte 1</a>,
-  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">Parte 2</a> e
-   <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3/">Parte 3</a>
+  Udemy - 2021 -
+  <a href="https://www.udemy.com/course/docker-fundamental-aprenda-a-utilizar-a-ferramenta/">
+    Curso
+  </a>
+</sub>
+
+<br/>
+
+• Curso de JavaScript e TypeScript do básico ao avançado <br/>
+<sub>
+  Udemy - 2020 -
+  <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/">
+    Curso
+  </a>
 </sub>
 
 <br/>
@@ -42,6 +66,16 @@
   <a href="https://www.cursoemvideo.com/curso/javascript/">
     Curso
   </a>
+</sub>
+
+<br/>
+
+• Curso de Python 3 <br/>
+<sub>
+  Curso em Vídeo - 2020 - Curso:
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Parte 1</a>,
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">Parte 2</a> e
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3/">Parte 3</a>
 </sub>
 
 <br/>
