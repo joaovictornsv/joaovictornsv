@@ -4,11 +4,11 @@
 
 <br/>
 
-### ✅ Principais projetos
----
-<h4> • Backend <br/>
+## ✅ Principais projetos
+
+<h3> • Backend <br/>
 <sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/>
-</h4>
+</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=http-node-api&theme=github_dark)](https://github.com/joaovictornsv/http-node-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=sls-login-mongodb&theme=github_dark)](https://github.com/joaovictornsv/sls-login-mongodb)
@@ -17,9 +17,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-azure-function&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-python&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-python)
 
+<h3> • Frontend <br/>
+<sub>Typescript | React | Next.js</sub><br/>
+</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=iris-classifier&theme=github_dark)](https://github.com/joaovictornsv/iris-classifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=climate-app&theme=github_dark)](https://github.com/joaovictornsv/climate-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=covidbr-tracker&theme=github_dark)](https://github.com/joaovictornsv/covidbr-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=IMC-calc&theme=github_dark)](https://github.com/joaovictornsv/IMC-calc)
 ---
-### 📜 Cursos e certificados
----
+## 📜 Cursos e certificados
+
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
 <sub>
   Udemy - 2021 -
