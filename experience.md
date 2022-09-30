@@ -7,24 +7,25 @@
 ## ✅ Principais projetos
 
 <h3> • Backend <br/>
-<sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/>
+<sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/><br/>
 </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=http-node-api&theme=github_dark)](https://github.com/joaovictornsv/http-node-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=sls-login-mongodb&theme=github_dark)](https://github.com/joaovictornsv/sls-login-mongodb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=typeorm-mocha&theme=github_dark)](https://github.com/joaovictornsv/typeorm-mocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=passport-jwt-typescript&theme=github_dark)](https://github.com/joaovictornsv/passport-jwt-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-azure-function&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-python&theme=github_dark)](https://github.com/joaovictornsv/mtls-auth-digest-api-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=http-node-api&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/http-node-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=sls-login-mongodb&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/sls-login-mongodb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=typeorm-mocha&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/typeorm-mocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=passport-jwt-typescript&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/passport-jwt-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-azure-function&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-python&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/mtls-auth-digest-api-python)
 
 <h3> • Frontend <br/>
-<sub>Typescript | React | Next.js</sub><br/>
+<sub>Typescript | React | Next.js</sub><br/><br/>
 </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=iris-classifier&theme=github_dark)](https://github.com/joaovictornsv/iris-classifier)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=climate-app&theme=github_dark)](https://github.com/joaovictornsv/climate-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=covidbr-tracker&theme=github_dark)](https://github.com/joaovictornsv/covidbr-tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=IMC-calc&theme=github_dark)](https://github.com/joaovictornsv/IMC-calc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=iris-classifier&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/iris-classifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=climate-app&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/climate-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=covidbr-tracker&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/covidbr-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=IMC-calc&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/IMC-calc)
+
 ---
 ## 📜 Cursos e certificados
 
