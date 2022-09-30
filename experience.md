@@ -4,7 +4,7 @@
 
 <br/>
 
-## ✅ Principais projetos
+## 💡 Principais projetos
 
 <h3> • Backend <br/>
 <sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/><br/>
