@@ -49,7 +49,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <div align=right>
 
   <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/23/Piston_%28U%29_JE3.gif/revision/latest?cb=20190825201257" height=50/> &nbsp;
-  <a href="/experience.md" >
+  <a href="/experience.md#-principais-projetos" >
     <img src="https://img.shields.io/badge/💡principais%20projetos%20-%238120E7.svg?&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/23/Piston_%28U%29_JE3.gif/revision/latest?cb=20190825201257" height=50/>
