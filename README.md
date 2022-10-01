@@ -46,6 +46,12 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
 <img height="26" title="Bash Script" alt="Bash Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 
+<div align=right>
+
+[![](https://img.shields.io/badge/💡principais%20projetos%20-%238120E7.svg?&style=for-the-badge&logoColor=white)](/experience.md#-principais-projetos) &nbsp;
+
+</div>
+
 <hr>
 
 #### Contato ⤵️
