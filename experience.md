@@ -9,22 +9,41 @@
 <h3> • Backend <br/>
 <sub>Node.js | Typescript | Express | Python | Azure Function | Authentication | SQL | NoSQL</sub><br/><br/>
 </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=http-node-api&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/http-node-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=sls-login-mongodb&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/sls-login-mongodb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=typeorm-mocha&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/typeorm-mocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=passport-jwt-typescript&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/passport-jwt-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-azure-function&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=mtls-auth-digest-api-python&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/mtls-auth-digest-api-python)
+<a href="https://github.com/joaovictornsv/http-node-api">
+  <img src="https://gh-card.dev/repos/joaovictornsv/http-node-api.svg">
+</a>
+<a href="https://github.com/joaovictornsv/sls-login-mongodb">
+  <img src="https://gh-card.dev/repos/joaovictornsv/sls-login-mongodb.svg">
+</a>
+<a href="https://github.com/joaovictornsv/typeorm-mocha">
+  <img src="https://gh-card.dev/repos/joaovictornsv/typeorm-mocha.svg">
+</a>
+<a href="https://github.com/joaovictornsv/passport-jwt-typescript">
+  <img src="https://gh-card.dev/repos/joaovictornsv/passport-jwt-typescript.svg">
+</a>
+<a href="https://github.com/joaovictornsv/mtls-auth-digest-api-azure-function">
+  <img src="https://gh-card.dev/repos/joaovictornsv/mtls-auth-digest-api-azure-function.svg">
+</a>
+<a href="https://github.com/joaovictornsv/mtls-auth-digest-api-python">
+  <img src="https://gh-card.dev/repos/joaovictornsv/mtls-auth-digest-api-python.svg">
+</a>
 
 <h3> • Frontend <br/>
 <sub>Typescript | React | Next.js</sub><br/><br/>
 </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=iris-classifier&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/iris-classifier)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=climate-app&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/climate-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=covidbr-tracker&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/covidbr-tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovictornsv&repo=IMC-calc&theme=github_dark&border_color=6D747B)](https://github.com/joaovictornsv/IMC-calc)
+<a href="https://github.com/joaovictornsv/iris-classifier">
+  <img src="https://gh-card.dev/repos/joaovictornsv/iris-classifier.svg">
+</a>
+<a href="https://github.com/joaovictornsv/climate-app">
+  <img src="https://gh-card.dev/repos/joaovictornsv/climate-app.svg">
+</a>
+<a href="https://github.com/joaovictornsv/covidbr-tracker">
+  <img src="https://gh-card.dev/repos/joaovictornsv/covidbr-tracker.svg">
+</a>
+<a href="https://github.com/joaovictornsv/IMC-calc">
+  <img src="https://gh-card.dev/repos/joaovictornsv/IMC-calc.svg">
+</a>
 
 ---
 ## 📜 Cursos e certificados
