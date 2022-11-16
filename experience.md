@@ -48,6 +48,19 @@
 ---
 ## 📜 Cursos e certificados
 
+• Scrum Foundation Professional Certificate SFPC (v2020) - Portuguese <br/>
+<sub>
+  CertiProf - 2022 - ID do Certificado: 81130567
+</sub>
+
+• Git e GitHub do básico ao avançado (c/ gist e GitHub Pages) <br/>
+<sub>
+  Udemy - 2022 -
+  <a href="https://www.udemy.com/certificate/UC-91d1f21c-4ca8-4a20-bec9-9186eacab7fd/">
+    Certificado
+  </a>
+</sub>
+
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
 <sub>
   Udemy - 2021 -
