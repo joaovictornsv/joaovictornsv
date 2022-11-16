@@ -53,6 +53,8 @@
   CertiProf - 2022 - ID do Certificado: 81130567
 </sub>
 
+<br/>
+
 • Git e GitHub do básico ao avançado (c/ gist e GitHub Pages) <br/>
 <sub>
   Udemy - 2022 -
@@ -60,6 +62,8 @@
     Certificado
   </a>
 </sub>
+
+<br/>
 
 • MongoDB do básico ao avançado (c/ Mongoose e projetos) <br/>
 <sub>
