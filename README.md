@@ -11,9 +11,6 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Express" alt="Express" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F8229324-expressjs-logo.png&f=1&nofb=1">
 <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
-<img height="26" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> &nbsp;
-<img height="26" title="Jest" alt="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"> &nbsp;
-<img height="26" title="Mocha" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
 <img height="26" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> &nbsp;
 <img height="26" title="CosmosDB" alt="CosmosDB" src="https://linkurious.com/assets/uploads/2022/02/image-4.png">
 
@@ -22,9 +19,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" title="Next" alt="Next.js" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"> &nbsp;
 <img height="26" title="Expo" alt="Expo" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"> &nbsp;
-<img height="26" title="Styled Components" alt="Styled Components" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
 
 #### <kbd>Cloud:</kbd><br>
 <img height="26" title="Serverless" alt="Serverless" src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png"> &nbsp;
@@ -39,12 +34,6 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="Beekeeper Studio" alt="Beekeeper Studio" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"> &nbsp;
 <img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-
-#### <kbd>Conhecimentos básicos em:</kbd><br>
-<img height="26" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp;
-<img height="26" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> &nbsp;
-<img height="26" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
-<img height="26" title="Bash Script" alt="Bash Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 
 <div align=right>
 
