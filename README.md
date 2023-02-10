@@ -50,7 +50,8 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 #### Contato ⤵️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictornsv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=23DC322F)](mailto:joaovictornsv@gmail.com) &nbsp;
+[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev)
 
 <div align="right">
   <a href="https://joaovictornsv.vercel.app" title="Clique aqui">
