@@ -21,6 +21,7 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
 <img height="26" title="Expo" alt="Expo" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"> &nbsp;
 
 #### <kbd>Cloud:</kbd><br>
@@ -30,7 +31,6 @@ Comecei a estudar Javascript e suas tecnologias em 2020 e desde então procuro e
 
 #### <kbd>Ferramentas:</kbd><br>
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
-<img height="26" title="BitButcket" alt="BitButcket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
