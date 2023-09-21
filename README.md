@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, sou João Victor
+## Olá 👋, sou João Victor
 
 <a href="https://joaovictornsv.vercel.app" title="Entre no portal">
   <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
