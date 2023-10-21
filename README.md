@@ -19,7 +19,9 @@ Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momen
 <img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">  &nbsp;
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  &nbsp;
 <img height="26" title="Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> &nbsp;
-<img height="26" title="zCloud" alt="zCloud" src="https://zcloud-static-assets.s3.amazonaws.com/zcloud-images/zcloud-logo-form.svg" />
+<a target="_blank" href="https://zcloud.ws/">
+  <img height="26" title="zCloud" alt="zCloud" src="https://zcloud-static-assets.s3.amazonaws.com/zcloud-images/zcloud-logo-form.svg" />
+</a>
 
 <hr>
 
