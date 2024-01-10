@@ -3,7 +3,7 @@
 <a href="https://joaovictornsv.vercel.app" title="Entre no portal">
   <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
 </a>
-Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momento atuo como Desenvolvedor Fullstack na stack Javascript. Atualmente cursando o 8º semestre de Engenharia de Computação.
+Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momento atuo como Desenvolvedor Fullstack na stack Javascript. Atualmente cursando o 9º semestre de Engenharia de Computação.
 
 #### <kbd>Fullstack:</kbd><br>
 <img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
