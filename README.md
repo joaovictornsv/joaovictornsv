@@ -27,4 +27,5 @@ Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momen
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=23DC322F)](mailto:joaovictornsv@gmail.com) &nbsp;
-[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev)
+[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev) &nbsp;
+[![Tabnews Badge](https://img.shields.io/badge/TABNEWS-FFFFFF.svg?&style=for-the-badge&logoColor=white)](https://www.tabnews.com.br/joaovictornsv/conteudos/1)
