@@ -30,3 +30,5 @@ Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momen
 [![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev) &nbsp;
 [![Tabnews Badge](https://img.shields.io/badge/TABNEWS-FFFFFF.svg?&style=for-the-badge&logoColor=white)](https://www.tabnews.com.br/joaovictornsv/conteudos/1) &nbsp;
 [![Lemeno Badge](https://img.shields.io/badge/LEMENO-232730.svg?&style=for-the-badge&logoColor=white)](https://news.lemeno.io/en/joaovictornsv)
+
+<!-- https://docs.google.com/document/d/1uBCXBNl9Q2lbVIBk0VO9ez8m71Lci6PXjz7LLY6viFE/edit?usp=sharing -->
