@@ -1,24 +1,18 @@
 ## Olá 👋, sou João Victor
 
-<a href="https://joaovictornsv.vercel.app" title="Entre no portal">
-  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
-</a>
 Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momento atuo como Desenvolvedor Fullstack na stack Javascript. Atualmente cursando o 9º semestre de Engenharia de Computação.
 
 #### <kbd>Fullstack:</kbd><br>
-<img height="26" title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img height="26" title="Typescript" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
 <img height="26" title="MeteorJS" alt="MeteorJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg"> &nbsp;
-<img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
+<img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+<img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
 
 #### <kbd>Cloud & Tools:</kbd><br>
 <img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">  &nbsp;
 <img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  &nbsp;
-<img height="26" title="Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> &nbsp;
 <a href="https://zcloud.ws/">
   <img height="26" title="zCloud" alt="zCloud" src="https://zcloud-static-assets.s3.amazonaws.com/zcloud-images/zcloud-logo-form.svg" />
 </a>
@@ -30,5 +24,3 @@ Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momen
 [![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev) &nbsp;
 [![Tabnews Badge](https://img.shields.io/badge/TABNEWS-FFFFFF.svg?&style=for-the-badge&logoColor=white)](https://www.tabnews.com.br/joaovictornsv/conteudos/1) &nbsp;
 [![Lemeno Badge](https://img.shields.io/badge/LEMENO-232730.svg?&style=for-the-badge&logoColor=white)](https://news.lemeno.io/en/joaovictornsv)
-
-<!-- https://docs.google.com/document/d/1uBCXBNl9Q2lbVIBk0VO9ez8m71Lci6PXjz7LLY6viFE/edit?usp=sharing -->
