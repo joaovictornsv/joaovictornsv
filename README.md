@@ -1,21 +1,13 @@
-## Olá 👋, sou João Victor
-
-Comecei na área dev em 2020 e desde então procuro evoluir a cada dia. No momento atuo como Desenvolvedor Fullstack na stack Javascript. Atualmente cursando o 9º semestre de Engenharia de Computação.
-
-#### <kbd>Fullstack:</kbd><br>
-<img height="26" title="React / React Native" alt="React / React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" title="MeteorJS" alt="MeteorJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg"> &nbsp;
-<img height="26" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> &nbsp;
-<img height="26" title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
-<img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;
-<img height="26" title="Postgres" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> &nbsp;
-
-#### <kbd>Cloud & Tools:</kbd><br>
-<img height="26" title="Terraform" alt="Terraform" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png">  &nbsp;
-<img height="26" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  &nbsp;
-<a href="https://zcloud.ws/">
-  <img height="26" title="zCloud" alt="zCloud" src="https://zcloud-static-assets.s3.amazonaws.com/zcloud-images/zcloud-logo-form.svg" />
+<a href="https://joaovictornsv.vercel.app" title="Enter the portal 👽">
+  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
 </a>
+
+Hi, I'm João Victor and since 2020 I've been coding a lot 😄.
+
+Currently, I'm a Full-stack developer, and sometimes I play with some DevOps stuff.
+My experience is focused on Node.js + React, but I have worked with Go, Python, Meteor.js and most recently I'm interested in Ruby on Rails.
+
+Feel free to get in touch, mainly to recommend a good book :)
 
 <hr>
 
