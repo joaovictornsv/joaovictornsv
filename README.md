@@ -1,5 +1,5 @@
 <a href="https://portfolio-production-joaovictornsv.svc-us3.zcloud.ws" title="Enter the portal 👽">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c5/Lit_Furnace_%28S%29.gif/revision/latest/scale-to-width-down/150?cb=20200831134706" align="right" width=150 /><br>
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/91/Campfire_JE2_BE2.gif/revision/latest/scale-to-width/360?cb=20200119163020" align="right" width=150 /><br>
 </a>
 
 Hi, I'm João Victor and since 2020 I've been coding a lot 😄.
