@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c5/Lit_Furnace_%28S%29.gif/revision/latest/scale-to-width-down/150?cb=20200831134706" align="right" width=150 /><br>
+<img src="https://media.tenor.com/NyiTKzjGE_QAAAAM/back-to.gif" align="right" width=150 /><br>
 
 Hi, I'm João Victor and since 2020 I've been coding a lot 😄.
 
