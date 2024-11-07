@@ -1,11 +1,10 @@
 <img src="https://media.tenor.com/NyiTKzjGE_QAAAAM/back-to.gif" align="right" width=150 /><br>
 
-Hi, I'm João Victor and since 2020 I've been coding a lot 😄.
+Hi, I'm João Victor, and I've been coding a lot since 2020 😄.
 
-Currently, I'm a Full-stack developer, and sometimes I play with some DevOps stuff.
-My experience is focused on Node.js + React, but I have worked with Go, Python, Meteor.js and most recently I'm interested in Ruby on Rails.
+Currently, I'm a Full-stack developer, with occasional DevOps experiments. My expertise is in Node.js and React, but I've also worked with Go, Python, Meteor.js, and recently developed an interest in Ruby on Rails.
 
-Feel free to get in touch, mainly to recommend a good book :)
+Feel free to reach out, especially if you have a good book recommendation! :)
 
 <hr>
 
