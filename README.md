@@ -11,3 +11,4 @@ Feel free to reach out, especially if you have a good book recommendation! :)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=23DC322F)](mailto:joaovictornsv@gmail.com) &nbsp;
 [![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev) &nbsp;
+[![Simplenote Badge](https://img.shields.io/badge/BLOG-%233361CC.svg?&style=for-the-badge&logo=simplenote&logoColor=white)](https://brain-backup-joaovictornsv.svc-us5.zcloud.ws) &nbsp;
