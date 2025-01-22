@@ -2,7 +2,7 @@
 
 Hi, I'm João Victor, and I've been coding a lot since 2020 😄. 
 
-Currently, I'm focused on my new app: [English Reviewer](https://english.joaovictornsv.dev/). 
+Currently, I'm focused on my new app: [Link Reminder](https://link-reminder.joaovictornsv.dev/). 
 
 Feel free to reach out, especially if you have a book recommendation! :)
 
