@@ -1,5 +1,3 @@
-<img src="https://media.tenor.com/NyiTKzjGE_QAAAAM/back-to.gif" align="right" width=150 /><br>
-
 Hi, I'm João Victor, and I've been coding a lot since 2020 😄. 
 
 Currently, I'm focused on my new app: [Link Reminder](https://link-reminder.joaovictornsv.dev/). 
