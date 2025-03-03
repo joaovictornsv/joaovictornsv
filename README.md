@@ -8,7 +8,6 @@ Feel free to reach out, especially if you have a book recommendation! :)
 
 <hr>
 
-<a href="mailto:joaovictornsv@gmail.com">joaovictornsv@gmail.com</a> &nbsp;
 <a href="https://youtube.com/@jvnsdev">YouTube</a> &nbsp;
 <a href="https://blog.joaovictornsv.dev">Blog</a> &nbsp;
 <a href="https://www.linkedin.com/in/joaovictornsv/">LinkedIn</a> &nbsp;
