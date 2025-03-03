@@ -8,7 +8,7 @@ Feel free to reach out, especially if you have a book recommendation! :)
 
 <hr>
 
-[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jvnsdev) &nbsp;
-[![Blog Badge](https://img.shields.io/badge/BLOG-%23FDF5E6.svg?&style=for-the-badge)](https://blog.joaovictornsv.dev) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictornsv/) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=23DC322F)](mailto:joaovictornsv@gmail.com) &nbsp;
+<a href="mailto:joaovictornsv@gmail.com">joaovictornsv@gmail.com</a> &nbsp;
+<a href="https://youtube.com/@jvnsdev">YouTube</a> &nbsp;
+<a href="https://blog.joaovictornsv.dev">Blog</a> &nbsp;
+<a href="https://www.linkedin.com/in/joaovictornsv/">LinkedIn</a> &nbsp;
