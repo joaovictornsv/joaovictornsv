@@ -1,8 +1,17 @@
-Hi, I'm João Victor, and I've been coding a lot since 2020 😄. 
+Hi, I'm João Victor
 
-Currently, I'm focused on my new app: [Link Reminder](https://link-reminder.joaovictornsv.dev/). 
+Software engineer with experience building and evolving production systems, mainly within the Meteor.js ecosystem.
 
-Feel free to reach out, especially if you have a book recommendation! :)
+Background in Node.js and React, with hands-on experience in payments and billing systems, system rewrites, and legacy migrations. I usually work end-to-end, from architecture and implementation to production, with a strong sense of ownership.
+
+I care deeply about readable, maintainable code, clear communication, and continuous alignment between technical decisions and real business needs. I aim to balance quality and speed while building reliable software that creates long-term value.
+
+### Tech stack
+- Node.js
+- Meteor.js
+- React
+- MongoDB
+- SQL
 
 <hr>
 
