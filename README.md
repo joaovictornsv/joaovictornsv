@@ -6,7 +6,7 @@ Background in Node.js and React, with hands-on experience in payments and billin
 
 I care deeply about readable, maintainable code, clear communication, and continuous alignment between technical decisions and real business needs. I aim to balance quality and speed while building reliable software that creates long-term value.
 
-### Tech stack
+#### Tech stack
 - Node.js
 - Meteor.js
 - React
