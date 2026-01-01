@@ -17,3 +17,4 @@ I care deeply about readable, maintainable code, clear communication, and contin
 
 <a href="https://www.linkedin.com/in/joaovictornsv/" target="_blank">LinkedIn</a> &nbsp;
 <a href="https://blog.joaovictornsv.dev" target="_blank">Blog</a> &nbsp;
+<a href="https://github.com/joaovictornsv/portfolio/blob/main/assets/docs/CV%20English.pdf" target="_blank">Curriculum</a> &nbsp;
