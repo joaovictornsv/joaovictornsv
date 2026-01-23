@@ -16,4 +16,4 @@ I care deeply about readable, maintainable code, clear communication, and contin
 <hr>
 
 <a href="https://www.linkedin.com/in/joaovictornsv/" target="_blank">LinkedIn</a> &nbsp;
-<a href="https://blog.joaovictornsv.dev" target="_blank">Blog</a>
+<a href="https://joaovictornsv.dev" target="_blank">Blog</a>
