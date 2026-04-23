@@ -3,7 +3,7 @@
 > AI-generated summary extracted from Akita On Rails' blog posts:
 >
 > - [How to Talk to Claude Code Effectively](https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/)
-> - [VS Code é o novo Cartão Perfurado](https://akitaonrails.com/2026/04/11/vs-code-e-o-novo-cartao-perfurado/)
+> - [VS Code Is the New Punch Card](https://akitaonrails.com/en/2026/04/11/vs-code-is-the-new-punch-card/)
 
 ---
 
