@@ -2,7 +2,7 @@
 
 > AI-generated summary extracted from Akita On Rails' blog posts:
 >
-> - [How to Talk to Claude Code Effectively](https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/)
+> - [Why LLMs Aren't Giving You the Result You Expect | Why I Prefer Claude Code Today](https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/)
 > - [VS Code Is the New Punch Card](https://akitaonrails.com/en/2026/04/11/vs-code-is-the-new-punch-card/)
 
 ---
